@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { ChatInputComponent } from './components/ChatInputComponent';
+import { ChatInputComponent } from './components/ChatInput';
 import { ChatMessageComponent } from './components/ChatMessage';
 import './App.css'
 
